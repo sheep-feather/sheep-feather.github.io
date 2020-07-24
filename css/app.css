@@ -1065,26 +1065,6 @@ main .content .wrap:nth-child(1) {
   -webkit-animation-delay: 0s;
           animation-delay: 0s;
 }
-.container>header .lozad li:nth-child(2) {
-  -webkit-animation-delay: 6s;
-          animation-delay: 6s;
-}
-.container>header .lozad li:nth-child(3) {
-  -webkit-animation-delay: 12s;
-          animation-delay: 12s;
-}
-.container>header .lozad li:nth-child(4) {
-  -webkit-animation-delay: 18s;
-          animation-delay: 18s;
-}
-.container>header .lozad li:nth-child(5) {
-  -webkit-animation-delay: 24s;
-          animation-delay: 24s;
-}
-.container>header .lozad li:nth-child(6) {
-  -webkit-animation-delay: 30s;
-          animation-delay: 30s;
-}
 .container>header .lozad::before {
   content: '';
   display: block;
